@@ -5,3 +5,7 @@
 function HelloGit()
 	print "Hello  World!"
 end
+
+function HelloGit_v2()
+	print "Hello World! But from my macbook air..."
+end
